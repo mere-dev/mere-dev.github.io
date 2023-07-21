@@ -46,12 +46,12 @@ highlight_code = true
 [extra]
 # Put all your custom variables here
 author = "Benjamin Greer"
-github = "https://github.com/aaranxu"
+github = "https://github.com/mere-dev"
 twitter = "https://twitter.com/"
 email = "contact@mere.dev"
 
 # If running on netlify.app site, set to true
-is_netlify = true
+is_netlify = false
 
 # Set HTML file language
 language_code = "en-US"

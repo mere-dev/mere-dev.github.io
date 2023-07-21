@@ -16,22 +16,20 @@ top = false
 
 👉 Make sure to read the [Code of Conduct](../code-of-conduct/).
 
-## Contribute to Doks
-
-👉 The AdiDoks code lives in the [`adidoks` repository](https://github.com/aaranxu/adidoks)
+## Contribute to mere.dev
 
 - Follow the [GitHub flow](https://guides.github.com/introduction/flow/).
 - Follow the [Conventional Commits Specification](https://www.conventionalcommits.org/en/v1.0.0/)
 
 ### Create an issue
 
-- [Bug report](https://github.com/aaranxu/adidoks/issues/new?template=bug-report---.md)
-- [Feature request](https://github.com/aaranxu/adidoks/issues/new?template=feature-request---.md)
+- [Bug report](https://github.com/mere-dev/mere-dev.github.io/issues/new?template=bug-report---.md)
+- [Feature request](https://github.com/mere-dev/mere-dev.github.io/issues/new?template=feature-request---.md)
 
 ## Improve documentation
 
-👉 The documentation lives in [`./content/docs/`](https://github.com/aaranxu/adidoks/tree/master/content/docs)
-of the [`adidoks` repository](https://github.com/h-enk/getdoks.org).
+👉 The documentation lives in [`./content/docs/`](https://github.com/mere-dev/mere-dev.github.io/tree/master/content/docs)
+of the [`adidoks` repository](https://github.com/mere-dev/mere-dev.github.io).
 
 - Follow the [GitHub flow](https://guides.github.com/introduction/flow/).
 - Follow the [Conventional Commits Specification](https://www.conventionalcommits.org/en/v1.0.0/)

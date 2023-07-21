@@ -29,11 +29,5 @@ AdiDoks is a Zola theme for Documentation's sites, ported by the Hugo Theme
 
 ## Other documentation?
 
-- [Netlify](https://docs.netlify.com/)
 - [Zola](https://www.getzola.org/documentation/getting-started/overview/)
 
-## Contact the creator?
-
-Send *Aaran Xu* an E-mail:
-
-- <aaranxu@outlook.com>

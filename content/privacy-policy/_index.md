@@ -22,6 +22,6 @@ __TLDR__: We do not use cookies and we do not collect any personal data.
 
 ## Contact us
 
-[Contact us](https://github.com/aaranxu/adidoks) if you have any questions.
+[Contact us](https://github.com/mere-dev) if you have any questions.
 
 

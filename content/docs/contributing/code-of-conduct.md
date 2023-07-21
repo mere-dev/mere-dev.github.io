@@ -27,9 +27,11 @@ We pledge that the work of our hands and minds shall not be used to blaspheme th
 
 We pledge that the work of our hands and minds shall not be used to stumble or inhibit the persuit of Jesus, or the establishment of his kingdom on earth, or any other free expression of religion.
 
-We embrace the burden to establish where possible, means to train and nurture future developers in the admonition of the Lord
+We embrace the burden and responsibility to establish where possible, means to train and nurture future developers in the admonition of the Lord
 
-We embrace the burden to establish fortifications and bulwarks against and person, state or institution who would prevent from fullfilling these oaths.
+We embrace the burden and responsibility to establish fortifications and bulwarks against and person, state or institution who would prevent or future generations from these works
+
+{{ pledge() }}
 
 
 ## Our Standards
@@ -44,7 +46,7 @@ Examples of unacceptable behavior include:
 * Any activity which may cause undue harm to children, or any other person not capable of autonomy
 * Any activity meant to diminish human flourishing
 * Any activity meant to prevent the free expression of religion
-* Any activity meant to devolve the community
+* Any activity meant to destroy our mission and community
 
 ## Enforcement Responsibilities
 
@@ -57,13 +59,6 @@ comments, commits, code, wiki edits, issues, and other contributions that are
 not aligned to this Code of Conduct, and will communicate reasons for moderation
 decisions when appropriate.
 
-## Scope
-
-This Code of Conduct applies within all community spaces, and also applies when
-an individual is officially representing the community in public spaces.
-Examples of representing our community include using an official e-mail address,
-posting via an official social media account, or acting as an appointed
-representative at an online or offline event.
 
 ## Enforcement
 
@@ -72,11 +67,14 @@ reported to the community leaders responsible for enforcement at
 <contact@mere.dev>.
 All complaints will be reviewed and investigated promptly and professionally.
 
-All community leaders are obligated to respect the privacy and security of the
-reporter of any incident.
+Anyone accused has the right to face their accusor
 
 ## Enforcement Guidelines
 
 Community leaders may consult and quote The Bible for guidelines in determining
-the consequences for any action they deem in violation of this Code of Conduct:
+the consequences for any action they deem in violation of this Code of Conduct.
+
+Community leaders may choose to adopt mutual arbitration, providing that all 
+arbtitrators respect the use of the Bible and laws of our Lord and saviour 
+Jesus Christ
 
