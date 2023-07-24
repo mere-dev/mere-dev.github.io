@@ -40,7 +40,8 @@
 {% block math %}{{ macros_math::math() }}{% endblock math %}
 </head>
 {% block body %}{% set page_class="home" %}{% endblock body %}
-<body class="{{ page_class }}" id="particles">
+<body class="{{ page_class }}" >
+  <div id="particles"></div>
   {% block header %}
     {{ macros_header::header(current_section="/") }}
   {% endblock header %}

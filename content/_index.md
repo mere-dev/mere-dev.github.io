@@ -1,15 +1,15 @@
 +++
-title = "Modern Documentation Theme"
+title = "The Mere Developer Project"
 
 
 # The homepage contents
 [extra]
-lead = '<b>AdiDoks</b> is a modern documentation theme, which is a port of the Hugo theme <a href="https://github.com/h-enk/">Doks</a> for Zola.'
+lead = 'To bring <b>real lasting freedom</b> in tech we must first understand what freedom is, and where it comes from. <br/> Start your journey now.'
 url = "/docs/getting-started/introduction/"
-url_button = "Get started"
-repo_version = "GitHub v0.1.0"
-repo_license = "Open-source MIT License."
-repo_url = "https://github.com/aaranxu/adidoks"
+url_button = "Let's Begin"
+repo_version = "Now"
+repo_license = "The future is"
+repo_url = "https://mere.dev/docs/"
 
 # Menu items
 [[extra.menu.main]]
@@ -25,27 +25,27 @@ url = "/blog/"
 weight = 20
 
 [[extra.list]]
-title = "Security aware"
+title = "Human Rights"
 content = 'Get A+ scores on <a href="https://observatory.mozilla.org/analyze/adidoks.org">Mozilla Observatory</a> out of the box. Easily change the default Security Headers to suit your needs.'
 
 [[extra.list]]
-title = "Fast by default ⚡️"
-content = 'Get 100 scores on <a href="https://googlechrome.github.io/lighthouse/viewer/?gist=7731347bb8ce999eff7428a8e763b637">Google Lighthouse</a> by default. Doks removes unused css, prefetches links, and lazy loads images.'
+title = "A Good Developer ⚡️"
+content = 'How do we become Good developers and call out Bad developers, without first knowing what is <a>Good</a>'
 
 [[extra.list]]
-title = "SEO-ready"
-content = "Use sensible defaults for structured data, open graph, and Twitter cards. Or easily change the SEO settings to your liking."
+title = "The State"
+content = 'Where do the dangers of crime, national security and the law end, and the duty to civil disobedience begin <br/> <a href="https://mere/dev">And why is tech always in the middle of it</a>'
 
 [[extra.list]]
-title = "Full text search"
-content = "Search your Doks site with FlexSearch. Easily customize index settings and search options to your liking."
+title = "Future Preservation"
+content = "What responsibilities do mere developers actually than just the next sprint, and how do we fulfill them?"
 
 [[extra.list]]
-title = "Page layouts"
-content = "Build pages with a landing page, blog, or documentation layout. Add custom sections and components to suit your needs."
+title = "AI Ethics"
+content = "How to establish a playbook for working with Artificial Intelligence"
 
 [[extra.list]]
-title = "Dark mode"
-content = "Switch to a low-light UI with the click of a button. Change colors with variables to match your branding."
+title = "Privacy and Transparency"
+content = "Who deserves it and when"
 
 +++
