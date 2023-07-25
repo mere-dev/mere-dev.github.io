@@ -26,7 +26,7 @@ weight = 20
 
 [[extra.list]]
 title = "Human Rights"
-content = 'Get A+ scores on <a href="https://observatory.mozilla.org/analyze/adidoks.org">Mozilla Observatory</a> out of the box. Easily change the default Security Headers to suit your needs.'
+content = 'Everyone now recognizes that there are <a href="https://www.archives.gov/founding-docs/declaration-transcript#:~:text=We%20hold%20these%20truths%20to,their%20just%20powers%20from%20the">Certain Unalienable Rights</a> that all must must be guaranteed. How do developers ensure we do no violate them, without giving in to complete anarchy. What makes a right anyway?'
 
 [[extra.list]]
 title = "A Good Developer ⚡️"
