@@ -1,6 +1,6 @@
 +++
-title = "Licensing"
-description = "Licensing"
+title = "The License"
+description = "Freedom of Religion License"
 date = 2021-05-01T18:20:00+00:00
 updated = 2021-05-01T18:20:00+00:00
 draft = false
@@ -9,7 +9,7 @@ sort_by = "weight"
 template = "docs/page.html"
 
 [extra]
-lead = "Licensing"
+lead = "The License"
 toc = true
 top = false
 +++

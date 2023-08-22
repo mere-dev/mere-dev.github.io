@@ -16,7 +16,7 @@ top = false
 
 
 
-All who sign here have indicated their commitment publically to live by this pledge.
+All who sign here have indicated their commitment publicly to live by this pledge.
 
 - [Sign Here](https://github.com/mere-dev/mere-dev.github.io/edit/master/content/docs/contributing/signatories.md)
 

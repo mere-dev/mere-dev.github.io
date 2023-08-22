@@ -10,7 +10,7 @@ template = "blog/page.html"
 authors = ["Public"]
 
 [extra]
-lead = "This article offers a sample of basic Markdown syntax that can be used in Zola content files, also it shows whether basic HTML elements are decorated with CSS in a Zola theme."
+lead = ""
 +++
 
-The Problem of courage
+The Tech Developer is his native habitat is arguably the least courageous creature on earth. And yet, many of the greatest atrocities against human rights pass through his code.

@@ -5,7 +5,7 @@ title = "The Mere Developer Project"
 # The homepage contents
 [extra]
 lead = 'To bring <b>real lasting freedom</b> in tech we must first understand what freedom is, and where it comes from. <br/> Start your journey now.'
-url = "/docs/getting-started/introduction/"
+url = "/docs/the-mission/introduction/"
 url_button = "Let's Begin"
 repo_version = "Now"
 repo_license = "The future is"
@@ -15,7 +15,7 @@ repo_url = "https://mere.dev/docs/"
 [[extra.menu.main]]
 name = "Docs"
 section = "docs"
-url = "/docs/getting-started/introduction/"
+url = "/docs/the-mission/introduction/"
 weight = 10
 
 [[extra.menu.main]]

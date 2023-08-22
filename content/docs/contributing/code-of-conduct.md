@@ -50,7 +50,7 @@ Instances of abusive, harassing, or otherwise unacceptable behavior may be
 reported to the community leaders responsible for enforcement at
 <contact@mere.dev>.
 
-Anyone accused has the right to face their accusor.
+Anyone accused has the right to face their accuser.
 Anyone has the right to resolve their dispute through arbitration with mutually elected mediators.
 
 ## Enforcement Guidelines
